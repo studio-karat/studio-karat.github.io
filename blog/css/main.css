@@ -48,6 +48,64 @@ pre {
 /**
  * Clearfix
  */
+.post-meta time {
+  font-family: inconsolata, Lucida Console, Courier, monospace;
+  font-weight: 300;
+  font-size: 0.8em; }
+
+.article-content p {
+  column-gap: 0;
+  -moz-column-gap: 0;
+  -webkit-column-gap: 0;
+  column-count: 1;
+  -moz-column-count: 1;
+  -webkit-column-count: 1; }
+
+.blog-link {
+  position: absolute;
+  right: .8em;
+  top: .8em; }
+
+article p, article ul li {
+  color: #222; }
+article ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+article li {
+  padding-left: 2em;
+  text-indent: -1.4em; }
+article li:before {
+  content: "\002022";
+  padding-right: 1em;
+  color: #04c4bb; }
+
+header a:hover {
+  text-decoration: none; }
+
+nav {
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.1em;
+  color: rgba(85, 98, 112, 0.3); }
+  nav a {
+    opacity: 0.8;
+    display: inline-block;
+    margin: 1em 0.5em;
+    font-family: inconsolata, Lucida Console, Courier, monospace;
+    font-weight: 300;
+    transition: opacity 0.3s ease; }
+    nav a:hover {
+      opacity: 1; }
+
+.post-list {
+  margin: 0;
+  padding: 0; }
+
+nav {
+  float: right;
+  top: 0; }
+
 /**
  * Syntax highlighting styles
  */
