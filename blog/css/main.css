@@ -66,37 +66,39 @@ pre {
   right: .8em;
   top: .8em; }
 
+article header {
+  margin-bottom: 60px; }
+  article header.preview {
+    margin-bottom: 30px; }
 article p, article ul li {
-  color: #222; }
+  color: #222;
+  line-height: 1.9; }
+article h3 {
+  margin-top: 45px; }
+article img {
+  margin: 15px 0; }
+article section {
+  padding: 15px 30px 15px 15px;
+  margin-top: 45px; }
+  article section h3 {
+    margin-top: 0; }
 article ul {
   list-style: none;
   padding: 0;
   margin: 0; }
-article li {
-  padding-left: 2em;
-  text-indent: -1.4em; }
-article li:before {
-  content: "\002022";
-  padding-right: 1em;
-  color: #04c4bb; }
-
-header a:hover {
-  text-decoration: none; }
-
-nav {
-  text-transform: uppercase;
-  font-size: 0.85em;
-  letter-spacing: 0.1em;
-  color: rgba(85, 98, 112, 0.3); }
-  nav a {
-    opacity: 0.8;
-    display: inline-block;
-    margin: 1em 0.5em;
-    font-family: inconsolata, Lucida Console, Courier, monospace;
-    font-weight: 300;
-    transition: opacity 0.3s ease; }
-    nav a:hover {
-      opacity: 1; }
+  article ul li {
+    padding-left: 2em;
+    text-indent: -1.4em;
+    margin-bottom: 15px; }
+    article ul li:before {
+      content: "\002022";
+      padding-right: 1em; }
+article footer {
+  border-top: 1px solid #ddd;
+  padding: 4em 0 0;
+  margin: 4em 0 0;
+  font-size: 0.8em;
+  line-height: 2.0; }
 
 .post-list {
   margin: 0;
