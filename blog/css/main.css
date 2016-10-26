@@ -70,10 +70,6 @@ article header {
   margin-bottom: 60px; }
   article header.preview {
     margin-bottom: 30px; }
-article p, article ul li {
-  color: #222;
-  line-height: 1.9;
-  font-family: inconsolata, Lucida Console, Courier, monospace; }
 article h3 {
   margin-top: 45px; }
 article img {

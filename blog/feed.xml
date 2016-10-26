@@ -5,13 +5,15 @@
     <description>We are an information and interface design studio based in Berlin.</description>
     <link>http://karat.studio/blog/</link>
     <atom:link href="http://karat.studio/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2016 00:20:23 +0200</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2016 00:20:23 +0200</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2016 01:01:24 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2016 01:01:24 +0200</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Wirkt das Zweckentfremdungsverbot in Berlin? – Ein Blick auf die Daten von Airbnb</title>
-        <description>&lt;p&gt;Das Thema Airbnb und die damit verbundene Diskussion um die Verknappung von Wohnraum sind in Berlin mittlerweile in aller Munde. Seitdem unser Projekt &lt;a href=&quot;http://www.airbnbvsberlin.de&quot; target=&quot;_blank&quot;&gt;www.airbnbvsberlin.de&lt;/a&gt; im März 2015 erstmals Angebotsdaten von Airbnb analysierte und öffentlich zugänglich machte, hat die Debatte Fahrt aufgenommen.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg&quot; alt=&quot;Zweckentfremdung? Ein Jahr Airbnb-Daten&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Thema Airbnb und die damit verbundene Diskussion um die Verknappung von Wohnraum sind in Berlin mittlerweile in aller Munde. Seitdem unser Projekt &lt;a href=&quot;http://www.airbnbvsberlin.de&quot; target=&quot;_blank&quot;&gt;www.airbnbvsberlin.de&lt;/a&gt; im März 2015 erstmals Angebotsdaten von Airbnb analysierte und öffentlich zugänglich machte, hat die Debatte Fahrt aufgenommen.&lt;/p&gt;
 
 &lt;p&gt;Am 1. Mai 2016 trat in Berlin das sogenannte Zweck­entfremdungs­verbot in Kraft, das Vermietung von kompletten Wohnungen über Airbnb und andere Portale untersagt und mit Strafen von bis zu 100 000 Euro belegt. Dennoch stehen noch immer viele komplette Wohnungen auf der Plattform zur Vermietung.&lt;/p&gt;
 
@@ -44,7 +46,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anteil-kommerzielle-und-nicht-kommerzielle-Airbnb-Angebote-in-Berlin-pro-Woche.png&quot; alt=&quot;Anteil kommerzielle und nicht-kommerzielle Airbnb-Angebote in Berlin pro Woche, März 2015 &amp;ndash; Oktober 2016&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Schaut man sich die Anzahl kommerziell angebotener Wohnungen&lt;a href=&quot;#footer&quot;&gt;*&lt;/a&gt; auf der Plattform an, so fällt auch hier ein starker Anstieg ab März 2015 auf. Da im gleichen Zeitraum allerdings auch die Gesamtanzahl an Angeboten steigt, bleibt der Anteil kommerzieller Wohnungen mit ca. 30 % bis November 2015 relativ konstant. Interessant ist aber der deutliche Anstieg ab November 2015 bis Februar 2016. In diesem Zeitraum sind zwischenzeitlich fast 40 % aller Angebote auf der Plattform kommerzielle Wohnungen. Inzwischen ist der Anteil deutlich gesunken und &lt;strong&gt;nur noch etwa jede fünfte Wohnung auf Airbnb kann als kommerziell eingestuft werden&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Schaut man sich die absolute Anzahl kommerziell angebotener Wohnungen&lt;a href=&quot;#footer&quot;&gt;*&lt;/a&gt; auf der Plattform an, so fällt auch hier ein starker Anstieg ab März 2015 auf. Da im gleichen Zeitraum allerdings auch die Gesamtanzahl an Angeboten steigt, bleibt der Anteil kommerzieller Wohnungen mit ca. 30 % bis November 2015 relativ konstant. Interessant ist aber der deutliche Anstieg ab November 2015 bis Februar 2016. In diesem Zeitraum sind zwischenzeitlich fast 40 % aller Angebote auf der Plattform kommerzielle Wohnungen. Inzwischen ist der Anteil deutlich gesunken und &lt;strong&gt;nur noch etwa jede fünfte Wohnung auf Airbnb kann als kommerziell eingestuft werden&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;section&gt;
   &lt;h3 id=&quot;zusammenfassung&quot;&gt;Zusammenfassung&lt;/h3&gt;
@@ -58,6 +60,8 @@
 
 &lt;h3 id=&quot;haben-wir-etwas-vergessen-kontaktieren-sie-uns&quot;&gt;Haben wir etwas vergessen? Kontaktieren Sie uns!&lt;/h3&gt;
 &lt;p&gt;Wenn Sie Feedback, Kritik oder weitere Fragen haben, kontaktieren Sie uns bitte unter folgender E-Mail-Adresse: &lt;a href=&quot;&amp;#0109;&amp;#097;&amp;#0105;&amp;#0108;&amp;#0116;&amp;#0111;&amp;#058;&amp;#0104;&amp;#0101;&amp;#0108;&amp;#0108;&amp;#0111;&amp;#064;&amp;#0107;&amp;#097;&amp;#0114;&amp;#097;&amp;#0116;&amp;#046;&amp;#0115;&amp;#0116;&amp;#0117;&amp;#0100;&amp;#0105;&amp;#0111;&quot;&gt;hello@karat.studio&lt;/a&gt; und erfahren Sie mehr unter &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sie möchten die Grafiken auf Ihrer Seite oder in Ihrer Präsentation verwenden? Die Dateien finden Sie hier als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdROFZaNjNBZ2EyWlE&quot;&gt;PDF&lt;/a&gt; und als PNG.&lt;/p&gt;
 
 &lt;footer&gt;&lt;a name=&quot;footer&quot;&gt;*&lt;/a&gt; Als kommerzielle Wohnungen bezeichnen wir alle Wohnungen von Anbietern, die mehr als eine Wohnung auf der Plattform anbieten. Dabei ist diese Definition lediglich als hinreichende Bedingung zu verstehen, da bspw. auch die Auslastung der angebotenen Wohnungen eine Rolle spielt. Unsere Definition unterschätzt somit die tatsächliche Anzahl an kommerziellen Wohnungen tendenziell. Andere wichtige Faktoren wie die Mietauslastung der angebotenen Wohnungen (in Tagen) werden nicht einbezogen, da sie in den von uns betrachteten Daten nicht zur Verfügung standen.&lt;/footer&gt;
 
