@@ -79,14 +79,19 @@ article section {
   margin-top: 45px; }
   article section h3 {
     margin-top: 0; }
+  article section ul {
+    margin-bottom: 0; }
+    article section ul li {
+      margin-bottom: 15px; }
 article ul {
   list-style: none;
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  margin-bottom: 30px; }
   article ul li {
     padding-left: 2em;
     text-indent: -1.4em;
-    margin-bottom: 15px; }
+    margin-bottom: 5px; }
     article ul li:before {
       content: "\002022";
       padding-right: 1em; }
