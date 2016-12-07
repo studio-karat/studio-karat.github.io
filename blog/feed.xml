@@ -5,13 +5,99 @@
     <description>We are an information and interface design studio based in Berlin.</description>
     <link>http://karat.studio/blog/</link>
     <atom:link href="http://karat.studio/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Nov 2016 00:23:45 +0100</pubDate>
-    <lastBuildDate>Wed, 30 Nov 2016 00:23:45 +0100</lastBuildDate>
+    <pubDate>Wed, 07 Dec 2016 23:55:37 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Dec 2016 23:55:37 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
+        <title>What effect is the partial Airbnb ban having in Berlin? – A look at new data from Airbnb</title>
+        <description>&lt;p&gt;Sie suchen nach der &lt;a href=&quot;http://karat.studio/blog/zweckentfremdung&quot; target=&quot;_blank&quot; rel=&quot;alternate&quot; hreflang=&quot;de&quot;&gt;Deutschen Version&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report-en.jpg&quot; alt=&quot;Misused? A year of Airbnb data&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In Berlin the subject of Airbnb and the associated debate over the housing shortage is currently on everyone’s lips. Since publishing our analysis and making Airbnb listings data from across Germany public in March 2015 as part of our &lt;a href=&quot;http://www.airbnbvsberlin.com&quot; target=&quot;_blank&quot;&gt;airbnbvsberlin.com&lt;/a&gt; project, the debate has only intensified.&lt;/p&gt;
+
+&lt;p&gt;On 1 May 2016 the so-called ‘Zweck­entfremdungs­verbot’ came into effect, prohibiting the letting out of entire apartments through Airbnb and other platforms, with offenders facing fines of up to 100,000 euros. Yet despite the ban, these platforms continue to list large numbers of entire properties for rental.&lt;/p&gt;
+
+&lt;p&gt;Now, five months on from the ban’s introduction, it’s time to take stock: has the ban had its intended effect and helped to curb the use of apartments as short-term lettings? Our study into how the Airbnb market in Berlin has changed – the results of which are published here for the first time – addresses this:&lt;/p&gt;
+
+&lt;h3 id=&quot;how-the-airbnb-market-in-berlin-has-changed-since-march-2015&quot;&gt;How the Airbnb market in Berlin has changed since March 2015&lt;/h3&gt;
+
+&lt;p&gt;Looking at the weekly trend in Berlin Airbnb listings since March last year, &lt;strong&gt;the number of listings grew rapidly between March 2015 and January 2016&lt;/strong&gt;. In March 2015 there were almost 11,500 listings on the site, which by January 2016 had grown to 19,700, a rise of 68 % in just 10 months.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anzahl-Airbnb-Angebote-in-Berlin-pro-Woche.svg&quot; alt=&quot;Weekly number of Airbnb listings in Berlin, March 2015 &amp;ndash; October 2016&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;deterred-uneasy-or-just-confused--what-is-the-effect-of-the-ban-on-airbnb-hosts&quot;&gt;Deterred, uneasy or just confused – what is the effect of the ban on Airbnb hosts?&lt;/h3&gt;
+
+&lt;p&gt;Particularly interesting are the listings figures around the time the Zweck­entfremdungs­verbot came into force on 1 May 2016: in anticipation of the impending ban many users deleted their listings, &lt;strong&gt;resulting in a 40 % drop in the total number of listings&lt;/strong&gt; between March and May of this year. The growth in listings over the previous 10 months was reversed in less than two, and by May the number had fallen to the level at the start of 2015. It’s not clear how many of those listings were deleted by Airbnb users voluntarily and how many were removed by Airbnb as we have reported on &lt;a href=&quot;http://www.zeit.de/wirtschaft/unternehmen/2016-04/airbnb-berlin-ferienwohnungen-vermieten-zweckentfremdung-gesetz&quot; target=&quot;_blank&quot;&gt;in collaboration with ZEIT Online&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, since the ban came in effect, the number of listings has actually increased slightly. By the beginning of October this year there were almost 12,400 listings available for rent on Airbnb. These new figures highlight that so far any &lt;strong&gt;deterrent effect&lt;/strong&gt; of the ban has been short term and has had little lasting effect on the behaviour of Airbnb hosts.&lt;/p&gt;
+
+&lt;p&gt;The reason for this is undoubtedly the unenthusiatic way in which the ban has been enforced, with few offenders actually facing fines. The fact that the wording of the law itself is &lt;a href=&quot;http://www.taz.de/!5303354/&quot; target=&quot;_blank&quot;&gt;not entirely clear&lt;/a&gt; and has been interpreted differently across Berlin districts has brought confusion and left hosts unsure about what’s legal and what isn’t. It seems that amongst the confusion, a lot of hosts have decided that after taking down their listings for a time, they could simply start letting out their properties on the site again.&lt;/p&gt;
+
+&lt;p&gt;The debate over the repurposing of housing due to Airbnb has centred primarily on people taking complete properties off the market and listing them on the site, and less on the individual rooms for rent. The data show that the number of whole properties as a share of the total has been constant for some time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anteil-komplette-Wohnung-Zimmer-und-geteilte-Zimmer-an-allen-Airbnb-Angeboten-in-Berlin-pro-Woche.svg&quot; alt=&quot;Weekly share of complete apartments, private rooms and shared rooms across Airbnb listings in Berlin, March 2015 &amp;ndash; October 2016&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In March 2015 the site featured 11,500 complete properties, representing nearly two-thirds of the total number of listings. This share remained broadly the same until January 2016. Since March this year, when the the number of listings fell sharply, the trend has changed: the share of complete properties listed on the site has fallen by 10 percentage points to &lt;strong&gt;just around half of all the listings&lt;/strong&gt;. Currently there are fewer than 6,500 complete apartments available on the site. This is another sign that the ban primarily deterred hosts letting out complete properties, at least for a while. Since September this year the trend appears to have changed again.&lt;/p&gt;
+
+&lt;h3 id=&quot;home-sharer-or-commercial-operator&quot;&gt;‘Home sharer’ or commercial operator?&lt;/h3&gt;
+
+&lt;p&gt;An important part of the Airbnb debate is the difference between hosts who let out their property every so often, for example when on holiday (known as ‘Home sharers’ in Airbnb parlance), and professional hosts who make their living by continually letting out several properties for commercial gain. This distinction is important given that it is this latter group that is responsible for taking housing off the conventional market. For this reason, we have taken a closer look at these commercial operators and their listings:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anteil-kommerzielle-und-nicht-kommerzielle-Airbnb-Angebote-in-Berlin-pro-Woche.svg&quot; alt=&quot;Weekly share of commercial and non-commercial Airbnb listings in Berlin, March 2015 &amp;ndash; October 2016&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking at the total number of commercial listings&lt;a href=&quot;#footer&quot;&gt;*&lt;/a&gt; on the platform, there has clearly been sharp growth since March 2015. Since the total number of listings also rose in the same period, the share of commercially-let apartments remained constant at 30 % of the total market up until November 2015. What’s interesting is the clear growth between November 2015 and February 2016. In this period the share of commercial properties rose to almost 40 % of the listings on the site. Since then, that share has fallen significantly, with &lt;strong&gt;commercial properties marking up just a fifth of Airbnb listings&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;section&gt;
+  &lt;h3 id=&quot;quick-facts-airbnb-and-the-partial-airbnb-ban&quot;&gt;Quick facts: Airbnb and the partial Airbnb ban&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Overall the number of Airbnb properties in Berlin grew significantly in 2015, with &lt;strong&gt;almost 8,000 additional listings&lt;/strong&gt;. The growth rate between March 2015 and January 2016 reached 68 %.&lt;/li&gt;
+    &lt;li&gt;Over the same period, the share of complete properties and commercially-let apartments also saw a sharp rise. In anticipation of the introduction of the Airbnb ban on 1 May 2016, this increase reversed dramatically as hosts removed their listings from the site or had them &lt;a href=&quot;http://www.zeit.de/wirtschaft/unternehmen/2016-04/airbnb-berlin-ferienwohnungen-vermieten-zweckentfremdung-gesetz&quot; target=&quot;_blank&quot;&gt;deleted by Airbnb&lt;/a&gt;. &lt;strong&gt;Between March and May 2016 the platform reported a 40 % fall in the number of listings.&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The partial ban on listings has proved to be a deterrent&lt;/strong&gt;, leading to a clear fall in commercial listings on the site. Their share fell from 40 % of the total by the middle of November 2015 to 20 % now.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Nonetheless the effect of the ban in Berlin appears to have been temporary.&lt;/strong&gt; Since the number of listings hit their low point at the end of May 2016, the platform has seen a clear return to growth, with a current total of 12,000 listings – back to the level of spring 2015.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;h3 id=&quot;have-we-missed-something-get-in-touch&quot;&gt;Have we missed something? Get in touch!&lt;/h3&gt;
+&lt;p&gt;If you have any feedback, criticism or further questions you can contact us by email at &lt;a href=&quot;&amp;#0109;&amp;#097;&amp;#0105;&amp;#0108;&amp;#0116;&amp;#0111;&amp;#058;&amp;#0104;&amp;#0101;&amp;#0108;&amp;#0108;&amp;#0111;&amp;#064;&amp;#0107;&amp;#097;&amp;#0114;&amp;#097;&amp;#0116;&amp;#046;&amp;#0115;&amp;#0116;&amp;#0117;&amp;#0100;&amp;#0105;&amp;#0111;&quot;&gt;hello@karat.studio&lt;/a&gt; and find more on our website, &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Want to use the graphics for your website or in a presentation? We have made the files freely available for use here in &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRM01yaU5ldFgyVjQ&quot;&gt;PDF&lt;/a&gt; and &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRY0EzakpUSjNRVlk&quot;&gt;PNG&lt;/a&gt; formats. Please quote &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt; as your source.&lt;/p&gt;
+
+&lt;p&gt;This article has been translated by &lt;a href=&quot;https://twitter.com/benhaughton&quot; target=&quot;_blank&quot;&gt;Benjamin Haughton&lt;/a&gt;. The German version &lt;a href=&quot;http://karat.studio/blog/zweckentfremdung&quot; target=&quot;_blank&quot; rel=&quot;alternate&quot; hreflang=&quot;de&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;press-review&quot;&gt;Press review&lt;/h3&gt;
+&lt;p&gt;This article has also been published here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.de/collection/business/analyse-zum-zweckentfremdungsverbot-hat-das-berliner-gesetz-gegen-airbnb-gewirkt&quot; target=&quot;_blank&quot; rel=&quot;alternate&quot;&gt;Wired - Analyse: Hat das Gesetz gegen Airbnb in Berlin gewirkt?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gruenderszene.de/allgemein/berlin-airbnb-vermietung-wohnung-gesetz&quot; target=&quot;_blank&quot; rel=&quot;alternate&quot;&gt;Gründerszene - Analyse: Hat das Gesetz gegen Airbnb in Berlin gewirkt?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This article has been featured here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.citylab.com/housing/2016/12/berlin-has-the-worlds-toughest-anti-airbnb-laws-are-they-working/509024/&quot; target=&quot;_blank&quot;&gt;CityLab – The City With the World’s Toughest Anti-Airbnb Laws&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.settle-in-berlin.com/airbnb-ban-berlin/&quot; target=&quot;_blank&quot;&gt;Settle-in-Berlin - The impact of the airbnb ban in Berlin – 6 months after&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rbb-online.de/wirtschaft/beitrag/av7/airbnb-buergervereine-gegen-zweckentfremdungsverbot.html&quot; target=&quot;_blank&quot;&gt;RBB - Airbnb mit neuen Kampagnen gegen Zweckentfremdungsverbot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.spiegel.de/reise/aktuell/zweckentfremdungsverbot-verhindert-kaum-airbnb-buchungen-a-1120830.html&quot; target=&quot;_blank&quot;&gt;Spiegel Online - Berlin kann Zweckentfremdungsverbot nicht durchsetzen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netzpolitik.org/2016/airbnb-in-berlin-wieder-mehr-angebote-und-ein-gesponserter-lobbyclub/&quot; target=&quot;_blank&quot;&gt;Netzpolitik - Airbnb in Berlin: Wieder mehr Angebote und ein gesponserter Lobbyclub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://utf.rdir.de/form.do?agnCI=875&amp;amp;agnFN=fullview&amp;amp;agnUID=A.B.BSvO.TfL.BTaq0.YI4fodCh1xHpMxhtlIjnuA&quot; target=&quot;_blank&quot;&gt;Tagesspiegel Checkpoint - Ausgabe 4.11.2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;footer&gt;&lt;a name=&quot;footer&quot;&gt;*&lt;/a&gt; We consider commercial listings to be properties from hosts that offer more than one property on the site. This definition can be seen as a mere minimum requirement since other factors &amp;ndash; like the utilisation level of the properties &amp;ndash; play a role. Given this, our definition is likely to lead to conservative estimates of the real number of commercial properties. We have not been able to consider other important factors, such as the utilisation rate of listed properties (in days), since they do not feature in the data we studied.&lt;/footer&gt;
+
+</description>
+        <pubDate>Wed, 07 Dec 2016 19:03:05 +0100</pubDate>
+        <link>http://karat.studio/blog/airbnbmisuse</link>
+        <guid isPermaLink="true">http://karat.studio/blog/airbnbmisuse</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Wie wirkt das Zweckentfremdungsverbot in Berlin? – Ein Blick auf neue Daten von Airbnb</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg&quot; alt=&quot;Zweckentfremdung? Ein Jahr Airbnb-Daten&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Looking for the &lt;a href=&quot;http://karat.studio/blog/airbnbmisuse&quot; target=&quot;_blank&quot; rel=&quot;alternate&quot; hreflang=&quot;en&quot;&gt;English version&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg&quot; alt=&quot;Zweckentfremdung? Ein Jahr Airbnb-Daten&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Das Thema Airbnb und die damit verbundene Diskussion um die Verknappung von Wohnraum sind in Berlin mittlerweile in aller Munde. Seitdem unser Projekt &lt;a href=&quot;http://www.airbnbvsberlin.de&quot; target=&quot;_blank&quot;&gt;airbnbvsberlin.de&lt;/a&gt; im März 2015 erstmals Angebotsdaten von Airbnb in Deutschland analysierte und öffentlich zugänglich machte, hat die Debatte Fahrt aufgenommen.&lt;/p&gt;
 
@@ -62,6 +148,8 @@
 
 &lt;p&gt;Sie möchten die Grafiken auf Ihrer Seite oder in Ihrer Präsentation verwenden? Die entsprechenden Dateien stellen wir Ihnen hier als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdROFZaNjNBZ2EyWlE&quot;&gt;PDF&lt;/a&gt; und als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRdTRTaHBxcGV4aW8&quot;&gt;PNG&lt;/a&gt; zur freien Verwendung zur Verfügung. Bitte geben Sie bei Verwendung diese Quelle &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt; an.&lt;/p&gt;
 
+&lt;p&gt;Looking for the &lt;a href=&quot;http://karat.studio/blog/airbnbmisuse&quot; target=&quot;_blank&quot; rel=&quot;alternate&quot; hreflang=&quot;en&quot;&gt;English version&lt;/a&gt;?&lt;/p&gt;
+
 &lt;h3 id=&quot;pressespiegel&quot;&gt;Pressespiegel&lt;/h3&gt;
 &lt;p&gt;Dieser Artikel ist außerdem hier erschienen:&lt;/p&gt;
 &lt;ul&gt;
@@ -75,7 +163,8 @@
   &lt;li&gt;&lt;a href=&quot;http://www.spiegel.de/reise/aktuell/zweckentfremdungsverbot-verhindert-kaum-airbnb-buchungen-a-1120830.html&quot; target=&quot;_blank&quot;&gt;Spiegel Online - Berlin kann Zweckentfremdungsverbot nicht durchsetzen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://netzpolitik.org/2016/airbnb-in-berlin-wieder-mehr-angebote-und-ein-gesponserter-lobbyclub/&quot; target=&quot;_blank&quot;&gt;Netzpolitik - Airbnb in Berlin: Wieder mehr Angebote und ein gesponserter Lobbyclub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://utf.rdir.de/form.do?agnCI=875&amp;amp;agnFN=fullview&amp;amp;agnUID=A.B.BSvO.TfL.BTaq0.YI4fodCh1xHpMxhtlIjnuA&quot; target=&quot;_blank&quot;&gt;Tagesspiegel Checkpoint - Ausgabe 4.11.2016&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.settle-in-berlin.com/author/settle_in_berlin/&quot; target=&quot;_blank&quot;&gt;Settle-in-Berlin - The impact of the airbnb ban in Berlin – 6 months after&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.settle-in-berlin.com/airbnb-ban-berlin/&quot; target=&quot;_blank&quot;&gt;Settle-in-Berlin - The impact of the airbnb ban in Berlin – 6 months after&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.citylab.com/housing/2016/12/berlin-has-the-worlds-toughest-anti-airbnb-laws-are-they-working/509024/&quot; target=&quot;_blank&quot;&gt;CityLab – The City With the World’s Toughest Anti-Airbnb Laws&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;footer&gt;&lt;a name=&quot;footer&quot;&gt;*&lt;/a&gt; Als kommerzielle Wohnungen bezeichnen wir alle Wohnungen von Anbietern, die mehr als eine Wohnung auf der Plattform anbieten. Dabei ist diese Definition lediglich als hinreichende Bedingung zu verstehen, da auch andere Faktoren &amp;ndash; bspw. die Auslastung der angebotenen Wohnungen &amp;ndash; eine Rolle spielen. Unsere Definition ist somit eine eher konservative Schätzung der tatsächlichen Anzahl an kommerziellen Wohnungen. Andere wichtige Faktoren, wie die Mietauslastung der angebotenen Wohnungen (in Tagen) werden nicht einbezogen, da sie in den von uns betrachteten Daten nicht zur Verfügung standen.&lt;/footer&gt;
