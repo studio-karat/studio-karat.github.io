@@ -3,10 +3,10 @@
   <channel>
     <title>Studio Karat Blog</title>
     <description>We are an information and interface design studio based in Berlin.</description>
-    <link>http://karat.studio/blog/</link>
-    <atom:link href="http://karat.studio/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Dec 2016 01:05:47 +0100</pubDate>
-    <lastBuildDate>Thu, 08 Dec 2016 01:05:47 +0100</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Dec 2016 02:00:32 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2016 02:00:32 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -60,9 +60,9 @@
 &lt;/section&gt;
 
 &lt;h3 id=&quot;have-we-missed-something-get-in-touch&quot;&gt;Have we missed something? Get in touch!&lt;/h3&gt;
-&lt;p&gt;If you have any feedback, criticism or further questions you can contact us by email at &lt;a href=&quot;&amp;#0109;&amp;#097;&amp;#0105;&amp;#0108;&amp;#0116;&amp;#0111;&amp;#058;&amp;#0104;&amp;#0101;&amp;#0108;&amp;#0108;&amp;#0111;&amp;#064;&amp;#0107;&amp;#097;&amp;#0114;&amp;#097;&amp;#0116;&amp;#046;&amp;#0115;&amp;#0116;&amp;#0117;&amp;#0100;&amp;#0105;&amp;#0111;&quot;&gt;hello@karat.studio&lt;/a&gt; and find more on our website, &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any feedback, criticism or further questions you can contact us by email at &lt;a href=&quot;&amp;#0109;&amp;#097;&amp;#0105;&amp;#0108;&amp;#0116;&amp;#0111;&amp;#058;&amp;#0104;&amp;#0101;&amp;#0108;&amp;#0108;&amp;#0111;&amp;#064;&amp;#0107;&amp;#097;&amp;#0114;&amp;#097;&amp;#0116;&amp;#046;&amp;#0115;&amp;#0116;&amp;#0117;&amp;#0100;&amp;#0105;&amp;#0111;&quot;&gt;hello@karat.studio&lt;/a&gt; and find more on our website, &lt;a href=&quot;http://localhost:4000&quot;&gt;www.karat.studio&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Want to use the graphics for your website or in a presentation? We have made the files freely available for use here in &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRM01yaU5ldFgyVjQ&quot;&gt;PDF&lt;/a&gt; and &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRY0EzakpUSjNRVlk&quot;&gt;PNG&lt;/a&gt; formats. Please quote &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt; as your source.&lt;/p&gt;
+&lt;p&gt;Want to use the graphics for your website or in a presentation? We have made the files freely available for use here in &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRM01yaU5ldFgyVjQ&quot;&gt;PDF&lt;/a&gt; and &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRY0EzakpUSjNRVlk&quot;&gt;PNG&lt;/a&gt; formats. Please quote &lt;a href=&quot;http://localhost:4000&quot;&gt;www.karat.studio&lt;/a&gt; as your source.&lt;/p&gt;
 
 &lt;p&gt;This article has been translated by &lt;a href=&quot;https://twitter.com/benhaughton&quot; target=&quot;_blank&quot;&gt;Benjamin Haughton&lt;/a&gt;. The German version &lt;a href=&quot;http://karat.studio/blog/zweckentfremdung&quot; rel=&quot;alternate&quot; hreflang=&quot;de&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
 
@@ -87,15 +87,15 @@
 
 </description>
         <pubDate>Wed, 07 Dec 2016 19:03:05 +0100</pubDate>
-        <link>http://karat.studio/blog/airbnbmisuse</link>
-        <guid isPermaLink="true">http://karat.studio/blog/airbnbmisuse</guid>
+        <link>http://localhost:4000/blog/airbnbmisused</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/airbnbmisused</guid>
         
         
       </item>
     
       <item>
         <title>Wie wirkt das Zweckentfremdungsverbot in Berlin? – Ein Blick auf neue Daten von Airbnb</title>
-        <description>&lt;p&gt;Looking for the &lt;a href=&quot;http://karat.studio/blog/airbnbmisuse&quot; rel=&quot;alternate&quot; hreflang=&quot;en&quot;&gt;English version&lt;/a&gt;?&lt;/p&gt;
+        <description>&lt;p&gt;Looking for the &lt;a href=&quot;http://karat.studio/blog/airbnbmisused&quot; rel=&quot;alternate&quot; hreflang=&quot;en&quot;&gt;English version&lt;/a&gt;?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg&quot; alt=&quot;Zweckentfremdung? Ein Jahr Airbnb-Daten&quot; /&gt;&lt;/p&gt;
 
@@ -144,9 +144,9 @@
 &lt;/section&gt;
 
 &lt;h3 id=&quot;haben-wir-etwas-vergessen-kontaktieren-sie-uns&quot;&gt;Haben wir etwas vergessen? Kontaktieren Sie uns!&lt;/h3&gt;
-&lt;p&gt;Wenn Sie Feedback, Kritik oder weitere Fragen haben, kontaktieren Sie uns bitte unter folgender E-Mail-Adresse: &lt;a href=&quot;&amp;#0109;&amp;#097;&amp;#0105;&amp;#0108;&amp;#0116;&amp;#0111;&amp;#058;&amp;#0104;&amp;#0101;&amp;#0108;&amp;#0108;&amp;#0111;&amp;#064;&amp;#0107;&amp;#097;&amp;#0114;&amp;#097;&amp;#0116;&amp;#046;&amp;#0115;&amp;#0116;&amp;#0117;&amp;#0100;&amp;#0105;&amp;#0111;&quot;&gt;hello@karat.studio&lt;/a&gt; und erfahren Sie mehr unter &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wenn Sie Feedback, Kritik oder weitere Fragen haben, kontaktieren Sie uns bitte unter folgender E-Mail-Adresse: &lt;a href=&quot;&amp;#0109;&amp;#097;&amp;#0105;&amp;#0108;&amp;#0116;&amp;#0111;&amp;#058;&amp;#0104;&amp;#0101;&amp;#0108;&amp;#0108;&amp;#0111;&amp;#064;&amp;#0107;&amp;#097;&amp;#0114;&amp;#097;&amp;#0116;&amp;#046;&amp;#0115;&amp;#0116;&amp;#0117;&amp;#0100;&amp;#0105;&amp;#0111;&quot;&gt;hello@karat.studio&lt;/a&gt; und erfahren Sie mehr unter &lt;a href=&quot;http://localhost:4000&quot;&gt;www.karat.studio&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Sie möchten die Grafiken auf Ihrer Seite oder in Ihrer Präsentation verwenden? Die entsprechenden Dateien stellen wir Ihnen hier als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdROFZaNjNBZ2EyWlE&quot;&gt;PDF&lt;/a&gt; und als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRdTRTaHBxcGV4aW8&quot;&gt;PNG&lt;/a&gt; zur freien Verwendung zur Verfügung. Bitte geben Sie bei Verwendung diese Quelle &lt;a href=&quot;http://karat.studio&quot;&gt;www.karat.studio&lt;/a&gt; an.&lt;/p&gt;
+&lt;p&gt;Sie möchten die Grafiken auf Ihrer Seite oder in Ihrer Präsentation verwenden? Die entsprechenden Dateien stellen wir Ihnen hier als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdROFZaNjNBZ2EyWlE&quot;&gt;PDF&lt;/a&gt; und als &lt;a href=&quot;https://drive.google.com/open?id=0B0251ePKIbdRdTRTaHBxcGV4aW8&quot;&gt;PNG&lt;/a&gt; zur freien Verwendung zur Verfügung. Bitte geben Sie bei Verwendung diese Quelle &lt;a href=&quot;http://localhost:4000&quot;&gt;www.karat.studio&lt;/a&gt; an.&lt;/p&gt;
 
 &lt;p&gt;Looking for the &lt;a href=&quot;http://karat.studio/blog/airbnbmisuse&quot; rel=&quot;alternate&quot; hreflang=&quot;en&quot;&gt;English version&lt;/a&gt;?&lt;/p&gt;
 
@@ -171,8 +171,8 @@
 
 </description>
         <pubDate>Mon, 24 Oct 2016 10:03:05 +0200</pubDate>
-        <link>http://karat.studio/blog/zweckentfremdung</link>
-        <guid isPermaLink="true">http://karat.studio/blog/zweckentfremdung</guid>
+        <link>http://localhost:4000/blog/zweckentfremdung</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/zweckentfremdung</guid>
         
         
       </item>
